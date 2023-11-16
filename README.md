@@ -1,6 +1,6 @@
 # Online Shoppers Intention Prediction
 ## Overview
-Welcome to the Online Shoppers Intention Prediction project! This project focuses on data analysis and classification modeling in the context of e-commerce. The primary objective is to predict potential customers from website visitors with an accuracy of 89%. The insights derived from this prediction can be used by stakeholders to make improvements in their website and marketing strategy. The ultimate goal is to acquire new customers and retain existing ones.
+Welcome to the Online Shoppers Intention Prediction project! This project focuses on data analysis and classification modeling in the context of e-commerce. The primary objective is to predict potential customers from website visitors with a result from the model with accuracy of 89%. The insights derived from this prediction can be used by stakeholders to make improvements in their website and marketing strategy. The ultimate goal is to acquire new customers and retain existing ones.
 
 ## Project Date
 September 2023

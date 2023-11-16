@@ -1,4 +1,8 @@
 # Online Shoppers Intention Prediction
+
+## Model Deployment Click Here:
+- https://huggingface.co/spaces/Daffarys/Milestone_2
+
 ## Overview
 Welcome to the Online Shoppers Intention Prediction project! This project focuses on data analysis and classification modeling in the context of e-commerce. The primary objective is to predict potential customers from website visitors with a result from the model with accuracy of 89%. The insights derived from this prediction can be used by stakeholders to make improvements in their website and marketing strategy. The ultimate goal is to acquire new customers and retain existing ones.
 

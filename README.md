@@ -20,4 +20,3 @@ September 2023
 - NumPy: Employed for numerical operations and array handling.
 - Seaborn and Matplotlib: Utilized for data visualization to gain insights into user behavior and trends.
 - Scikit-Learn: Applied for implementing machine learning classification models.
-- Streamlit: Used for creating interactive and user-friendly web applications.
